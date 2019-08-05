@@ -5,10 +5,10 @@ Device specific configuration such as kernels should still should be checked man
 
 This needs the latest versions of KDE 4 specific scripts/config files.
 
-The kde applications script is the latest one for the project for kde 4.
+The KDE applications script is the latest one for the project for KDE 4.
 
 The adduser script was needed because I disliked how adduser worked.
 
-Latest kde 4 based repository:
+Latest KDE 4 based repository:
 https://github.com/bobbybudnick/SFS-Mobile-Internet-Device/tree/R20-Resurrection
 

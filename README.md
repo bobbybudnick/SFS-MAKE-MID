@@ -9,6 +9,8 @@ The KDE applications script is the latest one for the project for KDE 4.
 
 The adduser script was needed because I disliked how adduser worked.
 
+Be sure to follow the 10 step process in the MAKE_MID source code.
+
 Latest KDE 4 based repository:
 https://github.com/bobbybudnick/SFS-Mobile-Internet-Device/tree/R20-Resurrection
 

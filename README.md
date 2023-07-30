@@ -1,3 +1,5 @@
+edit: Archiving this as any more MID related scripts will go into the main MID repository.
+
 # SFS-MAKE-MID
 This script speeds conversion of an SBC/screen/battery/cellular device into MID.
 
